@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=Ankitkumarupadhyay&label=Profile%20Views&color=0e75b6&style=flat" alt="Ankit Kumar Upadhyay" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ankitkumarupadhyay">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ankitkumarupadhyay&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Ankit Kumar Upadhyay" />
-  </a>
-</p>
 
 ---
 
@@ -24,7 +19,7 @@
 - 🗄️ Comfortable working with **MongoDB, PostgreSQL and Redis**.
 - 🚀 Experienced with **caching, background processing and job queues using Redis and BullMQ**.
 - 🧩 Interested in **Microservices, scalable backend architecture and distributed systems**.
-- 🐳 Familiar with **Docker, Kubernetes and CI/CD workflows**.
+- 🐳 Familiar with **Docker, and CI/CD workflows**.
 - ☁️ Experience working with **AWS and cloud-based deployments**.
 - 🧹 Focused on clean code, reusable components, maintainable architecture and performance optimization.
 
@@ -91,23 +86,7 @@
 ## ⚙️ Backend Development
 
 <p align="left">
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-</a>
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-</a>
-
-<a href="https://nestjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,typescript" />
 </p>
 
 **Backend Technologies**
@@ -203,10 +182,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
 </a>
 
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50"/>
-</a>
-
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
 </a>
@@ -225,16 +200,11 @@
 
 - AWS
 - Docker
-- Kubernetes
 - Linux
 - GitHub Actions
 - CI/CD
 - Containerization
 - Application Deployment
-- Environment Configuration
-- Cloud Infrastructure
-- Nginx
-- Production Deployment
 
 ---
 
@@ -291,39 +261,7 @@
 
 ---
 
-# 🚀 Featured Projects
 
-## 🔥 devTinder
-
-A full-stack developer-focused application built with a modern JavaScript/TypeScript stack.
-
-**Technologies:** React.js • TypeScript • Node.js • REST APIs
-
----
-
-## 🍔 Food Ordering
-
-A full-stack food ordering application focused on responsive UI, API integration and application workflows.
-
-**Technologies:** JavaScript • React.js • Node.js • REST APIs
-
----
-
-## 🎬 Netflix GPT
-
-A Netflix-inspired application enhanced with AI-powered movie discovery and search functionality.
-
-**Technologies:** React.js • JavaScript • API Integration • AI
-
----
-
-## 📺 AnkTube
-
-A video-focused web application built to explore modern frontend development, API integration and application architecture.
-
-**Technologies:** JavaScript • React.js • APIs
-
----
 
 # 📊 GitHub Stats
 
@@ -341,23 +279,6 @@ A video-focused web application built to explore modern frontend development, AP
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ankitkumarupadhyay&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankitkumarupadhyay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-
-</p>
 
 ---
 
