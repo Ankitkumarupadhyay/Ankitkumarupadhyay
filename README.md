@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Ankit Kumar Upadhyay
 
-<!--
-**Ankitkumarupadhyay/Ankitkumarupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | React.js | Node.js | TypeScript
 
-Here are some ideas to get you started:
+I’m a software developer passionate about building scalable,
+user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Node.js
+- Express.js
+- NestJS
+- MongoDB
+- PostgreSQL
+- REST APIs
+
+## 📌 Featured Projects
+
+- [devTinder](YOUR_REPO_LINK)
+- [Food Ordering](YOUR_REPO_LINK)
+- [AnkTube](YOUR_REPO_LINK)
+- [Netflix GPT](YOUR_REPO_LINK)
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- GitHub: YOUR_GITHUB_LINK
